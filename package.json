@@ -1,0 +1,15 @@
+{
+  "name": "range",
+  "version": "1.0.0",
+  "description": "create a range",
+  "main": "index.js",
+  "author": "Anders Rasmussen <divinegod@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "flow": "flow",
+    "precommit": "flow"
+  },
+  "devDependencies": {
+    "flow": "^0.2.3"
+  }
+}
